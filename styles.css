@@ -1,0 +1,19 @@
+img {
+    border-radius: 50%;
+    border: 20px solid #5ca5ed;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+    height: 250px;
+}
+
+body {
+    background-color: #49e3cc;
+}
+
+p {
+    font-family: 'Lexend Giga', sans-serif;
+}
+li{ 
+font-family: 'Lexend Giga', sans-serif;
+}
